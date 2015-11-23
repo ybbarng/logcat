@@ -35,3 +35,7 @@ to set the syntax.
 * Support for GUI vim is yet incomplete.
 * Support for color schemes is inexistant.
 * The colors have been chosen for a light background.
+
+
+##Added feature
+Support `adb logcat -v threadtime`
